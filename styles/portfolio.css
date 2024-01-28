@@ -162,3 +162,10 @@ margin-bottom: 10px;
 .resume-container hr{
     margin: 30px;
 }
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px ;
+    justify-content: space-between;
+}
+ 
